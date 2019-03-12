@@ -3,7 +3,7 @@
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Jingtong Zhao
-- Github username: jingtongzhao
+- Github username: JingtongZhao
 - Email: address jingtong_zhao@berkeley.edu
 - Lab section: 111
 - GSI: Yulun Wu
