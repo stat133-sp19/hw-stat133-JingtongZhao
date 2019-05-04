@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556821991261.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6608BF53",
+    "lastKnownWriteTime" : 1556914243,
+    "last_content_update" : 1556914243060,
+    "path" : "~/Desktop/STAT133/Binomial/Tests/testthat.R",
+    "project_path" : "Tests/testthat.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

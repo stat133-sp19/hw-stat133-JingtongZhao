@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556821906871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2789257312",
+    "id" : "D932ACF2",
+    "lastKnownWriteTime" : 1556926579,
+    "last_content_update" : 1556926579427,
+    "path" : "~/Desktop/STAT133/Binomial/R/Binomial.R",
+    "project_path" : "R/Binomial.R",
+    "properties" : {
+        "cursorPosition" : "101,54",
+        "scrollLine" : "92",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

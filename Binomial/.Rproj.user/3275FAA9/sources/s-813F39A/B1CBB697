@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556902757036.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1CBB697",
+    "lastKnownWriteTime" : 1556926521,
+    "last_content_update" : 1556926521405,
+    "path" : "~/Desktop/STAT133/Binomial/Vignettes/Introduction.Rmd",
+    "project_path" : "Vignettes/Introduction.Rmd",
+    "properties" : {
+        "cursorPosition" : "74,0",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

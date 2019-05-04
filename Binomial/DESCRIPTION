@@ -1,0 +1,17 @@
+Package: Binomial
+Type: Package
+Title: Binomial
+Version: 0.1.0
+Author: Jingtong Zhao
+Maintainer: Jingtong Zhao <jingtong_zhao@berkley.edu>
+Description: Calculates probabilities about the number of successes in a fixed number of random trials performed
+    under identical conditions.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
