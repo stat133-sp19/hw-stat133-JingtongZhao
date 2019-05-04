@@ -30,10 +30,10 @@ Install the development version from GitHub via the package `"devtools"`:
 # development version from GitHub:
 #install.packages("devtools") 
 
-# install "cointoss" (without vignettes)
-#devtools::install_github("stat133-sp19/hw-stat133-JingtongZhao/Binomial")
-# install "cointoss" (with vignettes)
-#devtools::install_github("stat133-sp19/hw-stat133-JingtongZhao/Binomial", build_vignettes = TRUE)
+#install "Binomial" (without vignettes)
+devtools::install_github("stat133-sp19/hw-stat133-JingtongZhao/Binomial")
+#install "Binomial" (with vignettes)
+devtools::install_github("stat133-sp19/hw-stat133-JingtongZhao/Binomial", build_vignettes = TRUE)
 ```
 
 Usage
