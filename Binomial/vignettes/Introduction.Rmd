@@ -14,7 +14,8 @@ knitr::opts_chunk$set(collapse = T, comment = "#>")
 library(Binomial)
 ```
 
-## Binomial
+# Binomial
+Binomial is a R package that provides functions for calculating probabilities of a Binomial random variable, and related calculations such as the probability distribution, the expected value, variance, etc.
 
 ## Calculating combinations
 The first step is to use factorial() to write a function bin_choose() that calculates the number of combinations in which k successes can occur in n trials.
